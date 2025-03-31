@@ -1,0 +1,5 @@
+print("22/03/2025")
+print("El dia de hoy me siento bien")
+print("Quiero poder hacer cualquier trabajo en codigo y ser alguien experto")
+print("Espero que sigamos esforzandonos por nuestro futuro")
+print("🤣")
