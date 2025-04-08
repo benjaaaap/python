@@ -10,3 +10,23 @@ while contador < 10:
     
 else:
     print("dejo de contar")
+    
+contador = 0
+while contador <5:
+    contador +=1
+    
+    
+if (contador ==4):
+    print ("Se rompio el bucle")
+    
+
+
+print(contador)
+
+contador = 0 
+
+while contador <5:
+    contador +=1
+    if (contador ==3):
+        continue
+    print (contador)
