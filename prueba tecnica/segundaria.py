@@ -2,7 +2,7 @@
 #09-04-2025
 #termine en 50s
 
-edad = int(input("Por favor, ingrese su edad: "))
+edad = int(input("ingrese su edad: "))
 
 # Clasificación de nivel escolar según la edad
 if edad == 14:
