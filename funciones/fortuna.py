@@ -1,3 +1,6 @@
+#Benjamin Poblete
+#16/04/2025
+
 import random
 
 def fortuna():
